@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regression | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/regression/</link>
+      <atom:link href="https://example.com/tags/regression/index.xml" rel="self" type="application/rss+xml" />
+    <description>Regression</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Regression</title>
+      <link>https://example.com/tags/regression/</link>
+    </image>
+    
+    <item>
+      <title>Machine Learning Lending Club Lending Rate Prediction</title>
+      <link>https://example.com/project/loan_rate_prediction/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/loan_rate_prediction/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;This project utilizes historical Lending Club data to build predictive models for estimating lending rates. The overall aim is to develop a robust, data-driven framework that can help lenders assess loan risk and price loans appropriately. The analysis follows a full workflow—from data cleaning and exploratory analysis to the implementation and comparison of multiple regression approaches.&lt;/p&gt;
+&lt;h2 id=&#34;data--preprocessing&#34;&gt;Data &amp;amp; Preprocessing&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Dataset:&lt;/strong&gt;&lt;br&gt;
+The raw Lending Club data is provided in the file &lt;code&gt;Lending Club.xlsx&lt;/code&gt;. It includes borrower information, loan amounts, interest rates, FICO scores, and other relevant financial variables.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Data Cleaning:&lt;/strong&gt;&lt;br&gt;
+Before doing any analysis, some data cleaning is required for the models:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Handle missing values (dropping rows with NAs).&lt;/li&gt;
+&lt;li&gt;Remove outliers to ensure data robustness.&lt;/li&gt;
+&lt;li&gt;Transform categorical variables into dummy variables (e.g., processing the “Home” and “Employment length” fields to avoid multicollinearity).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;exploratory-analysis--visualizations&#34;&gt;Exploratory Analysis &amp;amp; Visualizations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Visual Analysis:&lt;/strong&gt;&lt;br&gt;
+The code provides detailed visualizations of:
+&lt;ul&gt;
+&lt;li&gt;Distributions of key numerical features (FICO scores, income, loan amounts, lending rates).&lt;/li&gt;
+&lt;li&gt;Distributions and frequency of categorical variables.&lt;/li&gt;
+&lt;li&gt;Correlation heatmaps and other plots that reveal relationships among features.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;modeling-approaches&#34;&gt;Modeling Approaches&lt;/h2&gt;
+&lt;p&gt;The project implements several modeling strategies to predict lending rates:&lt;/p&gt;
+&lt;h3 id=&#34;1-non-parametric-regression-models&#34;&gt;1. Non-Parametric Regression Models&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Techniques Used:&lt;/strong&gt;&lt;br&gt;
+The analysis includes models such as:
+&lt;ul&gt;
+&lt;li&gt;K-Nearest Neighbors (KNN) Regressor&lt;/li&gt;
+&lt;li&gt;Decision Tree Regressor&lt;/li&gt;
+&lt;li&gt;Bagging and Random Forest Regressors&lt;/li&gt;
+&lt;li&gt;Gradient Boosting Regressor (with plots showing MSE vs. n_estimators)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Evaluation:&lt;/strong&gt;&lt;br&gt;
+Model performance is primarily assessed using regression metrics such as RMSE and R-squared, along with visual inspection of residuals and confusion matrices for classification variants (if applicable).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-regularization-techniques&#34;&gt;2. Regularization Techniques&lt;/h3&gt;
+&lt;p&gt;The code covers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The application of Lasso, Ridge, and Elastic Net regression to control model complexity and prevent overfitting.&lt;/li&gt;
+&lt;li&gt;Hyperparameter tuning (e.g., selecting optimal regularization strengths).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Outcome:&lt;/strong&gt;&lt;br&gt;
+Regularization helps improve model stability and prediction accuracy by shrinking less-important feature coefficients.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-variable-selection--dimension-reduction&#34;&gt;3. Variable Selection &amp;amp; Dimension Reduction&lt;/h3&gt;
+&lt;p&gt;The notebook implements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Principal Components Regression (PCR) and Partial Least Squares (PLS) to reduce dimensionality and address multicollinearity.&lt;/li&gt;
+&lt;li&gt;Variable selection techniques to identify the most significant predictors among features like FICO scores, income, and loan amount.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;br&gt;
+These methods help in simplifying the model while retaining essential predictive power.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-findings&#34;&gt;Key Findings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Data Preparation:&lt;/strong&gt;&lt;br&gt;
+Effective cleaning and preprocessing (including handling missing values and encoding categorical variables) were essential to build reliable models.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Visual Insights:&lt;/strong&gt;&lt;br&gt;
+The exploratory analysis highlighted that borrower credit score, debt-to-income ratio, and loan amount are key predictors of lending rates.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Model Performance:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Non-parametric models (like random forest) generally outperformed simple linear models.&lt;/li&gt;
+&lt;li&gt;Regularization (Lasso, Ridge, Elastic Net) proved beneficial for controlling overfitting.&lt;/li&gt;
+&lt;li&gt;Variable selection via PCR and PLS further improved model interpretability and performance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Practical Implications:&lt;/strong&gt;&lt;br&gt;
+The developed framework offers a data-driven approach for early identification of high-risk loans, potentially aiding lenders in making better-informed decisions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;repository-structure&#34;&gt;Repository Structure&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;README.MD:&lt;/strong&gt;&lt;br&gt;
+Contains an overview and instructions for replicating the analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Lending Club.xlsx:&lt;/strong&gt;&lt;br&gt;
+The raw dataset used for the analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Data Cleaning.ipynb:&lt;/strong&gt;&lt;br&gt;
+Jupyter notebook detailing the data cleaning and preprocessing steps.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Visual.ipynb:&lt;/strong&gt;&lt;br&gt;
+Notebook that generates visualizations of key data distributions and correlations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Regularization (with Lasso &amp;amp; Ridge &amp;amp; Elastic Net).ipynb:&lt;/strong&gt;&lt;br&gt;
+Notebook describing the application and tuning of regularized regression models.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Variable Selection, PCR &amp;amp; PLS.ipynb:&lt;/strong&gt;&lt;br&gt;
+Notebook covering dimension reduction and variable selection methods.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;src/&lt;/strong&gt;&lt;br&gt;
+Contains additional Python scripts for data cleaning and model training.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Images:&lt;/strong&gt;&lt;br&gt;
+Various PNG files (e.g., FICO.png, categorical.png, log_inc.png, Loan Rate .png, Loan_amt.png, etc.) that were generated during the analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;requirements.txt:&lt;/strong&gt;&lt;br&gt;
+Lists all the Python packages required for running the notebooks and scripts.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Advanced Model Tuning:&lt;/strong&gt;&lt;br&gt;
+Further fine-tuning of hyperparameters for ensemble models and regularized regressions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ensemble Methods:&lt;/strong&gt;&lt;br&gt;
+Exploration of stacking or blending techniques to potentially improve prediction accuracy.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Deployment:&lt;/strong&gt;&lt;br&gt;
+Developing an API for real-time lending rate prediction to facilitate practical decision-making.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;additional-resources&#34;&gt;Additional Resources&lt;/h2&gt;
+&lt;p&gt;For a detailed look at the methodology and code, please visit the &lt;a href=&#34;https://github.com/ANZz01/Machine-Learning-LendingClub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Repository&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimizing Customer Acquisition Strategies Using Predictive Analytics</title>
+      <link>https://example.com/project/predictive_analytics/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/predictive_analytics/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;Convenient Food Mart faces high customer acquisition costs due to inefficient targeting. In this project, our team (Sophia Mei, Alex Ng, Ying Qing, and Laurie Ye) applied predictive analytics to a customer dataset to identify the key demographic and behavioral factors that drive profitable customer acquisition. Our goal is to build an efficient model to estimate customer acquisition costs, thereby enabling more precise and cost-effective marketing strategies.&lt;/p&gt;
+&lt;h2 id=&#34;data--preprocessing&#34;&gt;Data &amp;amp; Preprocessing&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Dataset:&lt;/strong&gt;&lt;br&gt;
+The analysis is based on a customer dataset containing variables such as marital status, gender, total children, education level, member card status, occupation, homeownership, average cars at home, and average yearly income.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Data Cleaning &amp;amp; Transformation:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Irrelevant and duplicate columns were dropped.&lt;/li&gt;
+&lt;li&gt;Categorical variables (e.g., &amp;ldquo;Home,&amp;rdquo; &amp;ldquo;Education,&amp;rdquo; &amp;ldquo;Member Card&amp;rdquo;) were converted into dummy variables.&lt;/li&gt;
+&lt;li&gt;Missing values were dropped to ensure data robustness.&lt;/li&gt;
+&lt;li&gt;Box-Cox transformations were applied to stabilize variance in key predictors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;modeling-approach&#34;&gt;Modeling Approach&lt;/h2&gt;
+&lt;h3 id=&#34;linear-regression&#34;&gt;Linear Regression&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Baseline Model:&lt;/strong&gt;&lt;br&gt;
+A linear regression model was developed to estimate customer acquisition costs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Box-Cox Transformation:&lt;/strong&gt;&lt;br&gt;
+Applied to improve model fit by reducing skewness.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Evaluation:&lt;/strong&gt;&lt;br&gt;
+Performance was measured using error metrics such as RMSE, MAE, MPE, and MAPE—evaluated on both the original and Box-Cox transformed data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;regression-trees&#34;&gt;Regression Trees&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Decision Tree Modeling:&lt;/strong&gt;&lt;br&gt;
+A regression tree was constructed to capture non-linear relationships.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pruning:&lt;/strong&gt;&lt;br&gt;
+Pruned trees were compared with unpruned versions to reduce overfitting, resulting in lower error metrics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;model-comparison&#34;&gt;Model Comparison&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The performance of the linear regression models (with and without Box-Cox transformation) was compared with the regression tree approach. Error metrics and residual analysis were used to determine which model provided the best predictive accuracy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-findings&#34;&gt;Key Findings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Variable Importance:&lt;/strong&gt;&lt;br&gt;
+The analysis identified that variables such as average yearly income, number of cars at home, and demographic factors play a significant role in determining customer acquisition costs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Model Performance:&lt;/strong&gt;&lt;br&gt;
+The Box-Cox transformed linear regression model and the pruned regression tree both showed improvements over the baseline model.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Marketing Insights:&lt;/strong&gt;&lt;br&gt;
+The model can be applied during the promotion planning stage to estimate media costs and better target customer segments, potentially reducing overall acquisition costs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;repository-structure&#34;&gt;Repository Structure&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ISOM 455 Final Project.pdf:&lt;/strong&gt;&lt;br&gt;
+The final project report detailing the business problem, methodology, and key findings.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data Spreadsheet&lt;/strong&gt;&lt;br&gt;
+The spreadsheet includes all the data used in this project.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;documents&#34;&gt;Documents&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/ISOM%20455%20Final%20Project.pdf&#34;&gt;ISOM 455 Final Project Report (PDF)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/Media.csv&#34;&gt;Data (CSV)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Enhanced Variable Analysis:&lt;/strong&gt;&lt;br&gt;
+Incorporate additional predictors (e.g., store data, promotion type) to refine the model.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ROI Integration:&lt;/strong&gt;&lt;br&gt;
+Pair customer acquisition costs with Customer Lifetime Value (CLV) for a more comprehensive analysis.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deployment:&lt;/strong&gt;&lt;br&gt;
+Develop an API or dashboard for real-time prediction to support marketing strategy adjustments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;By applying a rigorous data cleaning process, variable selection, and multiple regression techniques, this project provides a data-driven approach to optimizing customer acquisition. The insights derived from the model can help Convenient Food Mart reduce marketing spend and improve customer targeting, leading to more efficient acquisition strategies.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAPM | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/capm/</link>
+      <atom:link href="https://example.com/tags/capm/index.xml" rel="self" type="application/rss+xml" />
+    <description>CAPM</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>CAPM</title>
+      <link>https://example.com/tags/capm/</link>
+    </image>
+    
+    <item>
+      <title>Pharmaceutical Industry Portfolio Optimization &amp; Risk Analysis</title>
+      <link>https://example.com/project/healthcare-portfolio/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/healthcare-portfolio/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;This project examines the performance and risk profiles of leading pharmaceutical companies using a quantitative framework. By combining portfolio optimization techniques with CAPM analysis and non‐parametric risk assessments (such as Value at Risk and Expected Shortfall), the study aims to construct an optimized portfolio that maximizes risk‐adjusted returns while mitigating downside risks through diversification.&lt;/p&gt;
+&lt;h2 id=&#34;data--methodology&#34;&gt;Data &amp;amp; Methodology&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Data Sources:&lt;/strong&gt;&lt;br&gt;
+Financial data for major drug manufacturers (e.g., Pfizer, Johnson &amp;amp; Johnson, AbbVie) were obtained from public sources such as Yahoo Finance. The dataset spans multiple periods to enable comparison before and during market disruptions (e.g., COVID-19).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Data Preparation:&lt;/strong&gt;&lt;br&gt;
+Raw data were cleaned to remove missing values and outliers, with appropriate transformations applied (e.g., conversion of categorical variables into dummy variables).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Modeling &amp;amp; Analysis:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Portfolio Optimization:&lt;/strong&gt;&lt;br&gt;
+A tangency portfolio was constructed to maximize the Sharpe ratio, providing an “Optimal Portfolio” whose performance is compared against individual stocks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CAPM Analysis:&lt;/strong&gt;&lt;br&gt;
+The Capital Asset Pricing Model (CAPM) was applied using market returns from the S&amp;amp;P 500 and a risk-free proxy from Treasury yields to estimate beta values.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Risk Metrics:&lt;/strong&gt;&lt;br&gt;
+Non‐parametric methods were used to compute Value at Risk (VaR) and Expected Shortfall (ES) for both the 2017–2019 and 2020–2022 periods, illustrating changes in downside risk.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-findings&#34;&gt;Key Findings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Diversification Benefits:&lt;/strong&gt;&lt;br&gt;
+The industry index shows lower volatility compared to individual stocks, demonstrating the risk-reducing effect of diversification.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Portfolio Performance:&lt;/strong&gt;&lt;br&gt;
+The optimized portfolio achieves a higher Sharpe ratio than individual stocks, albeit with slightly higher volatility, which is acceptable given the improved risk-adjusted returns.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CAPM Insights:&lt;/strong&gt;&lt;br&gt;
+Beta estimates reveal that individual stocks vary in market sensitivity while the optimized portfolio maintains a near market-neutral position.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Risk Analysis:&lt;/strong&gt;&lt;br&gt;
+The VaR and ES metrics highlight that, even during periods of increased market instability, the industry index remains the safest option.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;supporting-documents&#34;&gt;Supporting Documents&lt;/h2&gt;
+&lt;p&gt;For further details on the analysis and methodology, please refer to the following documents:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/5630%20Project%20Presentation.pdf&#34;&gt;Project Presentation.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/Project_final.pdf&#34;&gt;Code Output.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;repository-structure&#34;&gt;Repository Structure&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Reports &amp;amp; Presentations:&lt;/strong&gt;&lt;br&gt;
+The main project report and presentation files outline the strategy, key backtest statistics, and visual summaries.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python Notebook:&lt;/strong&gt;&lt;br&gt;
+The code file includes the entire project including data sourcing, data cleaning, modeling, and visualizations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dynamic Rebalancing:&lt;/strong&gt;&lt;br&gt;
+Investigate periodic rebalancing strategies to maintain optimal risk-adjusted returns.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advanced Risk Metrics:&lt;/strong&gt;&lt;br&gt;
+Incorporate additional metrics (such as the Calmar ratio) for a more comprehensive risk assessment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deployment:&lt;/strong&gt;&lt;br&gt;
+Develop a dashboard or API for real-time monitoring and adjustment of the portfolio.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;This analysis provides a robust quantitative framework for portfolio optimization in the pharmaceutical industry. By integrating CAPM analysis with non‐parametric risk assessments, the study offers actionable insights for constructing a diversified portfolio that minimizes downside risk while capturing excess returns.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
