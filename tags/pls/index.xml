@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PLS | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/pls/</link>
-      <atom:link href="https://example.com/tags/pls/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://anzz01.github.io/my_website/tags/pls/</link>
+      <atom:link href="https://anzz01.github.io/my_website/tags/pls/index.xml" rel="self" type="application/rss+xml" />
     <description>PLS</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://anzz01.github.io/my_website/media/icon_hu_645fa481986063ef.png</url>
       <title>PLS</title>
-      <link>https://example.com/tags/pls/</link>
+      <link>https://anzz01.github.io/my_website/tags/pls/</link>
     </image>
     
     <item>
       <title>Machine Learning Lending Club Lending Rate Prediction</title>
-      <link>https://example.com/project/loan_rate_prediction/</link>
+      <link>https://anzz01.github.io/my_website/project/loan_rate_prediction/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/loan_rate_prediction/</guid>
+      <guid>https://anzz01.github.io/my_website/project/loan_rate_prediction/</guid>
       <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
 &lt;p&gt;This project utilizes historical Lending Club data to build predictive models for estimating lending rates. The overall aim is to develop a robust, data-driven framework that can help lenders assess loan risk and price loans appropriately. The analysis follows a full workflow—from data cleaning and exploratory analysis to the implementation and comparison of multiple regression approaches.&lt;/p&gt;
 &lt;h2 id=&#34;data--preprocessing&#34;&gt;Data &amp;amp; Preprocessing&lt;/h2&gt;

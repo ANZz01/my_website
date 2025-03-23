@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Academic CV Theme</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://anzz01.github.io/my_website/</link>
+      <atom:link href="https://anzz01.github.io/my_website/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Academic CV Theme</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://anzz01.github.io/my_website/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Academic CV Theme</title>
-      <link>https://example.com/</link>
+      <link>https://anzz01.github.io/my_website/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/event/example/</link>
+      <link>https://anzz01.github.io/my_website/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/event/example/</guid>
+      <guid>https://anzz01.github.io/my_website/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Experience</title>
-      <link>https://example.com/experience/</link>
+      <link>https://anzz01.github.io/my_website/experience/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/experience/</guid>
+      <guid>https://anzz01.github.io/my_website/experience/</guid>
       <description>&lt;h2 id=&#34;quant-strategy-intern---ubs&#34;&gt;Quant Strategy Intern - UBS&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Sept. - Oct. 2023&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -71,9 +71,9 @@ Kwun Fung Ng (2022). &lt;em&gt;Advances in Economics, Business and Management Re
     
     <item>
       <title>Machine Learning Lending Club Lending Rate Prediction</title>
-      <link>https://example.com/project/loan_rate_prediction/</link>
+      <link>https://anzz01.github.io/my_website/project/loan_rate_prediction/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/loan_rate_prediction/</guid>
+      <guid>https://anzz01.github.io/my_website/project/loan_rate_prediction/</guid>
       <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
 &lt;p&gt;This project utilizes historical Lending Club data to build predictive models for estimating lending rates. The overall aim is to develop a robust, data-driven framework that can help lenders assess loan risk and price loans appropriately. The analysis follows a full workflow—from data cleaning and exploratory analysis to the implementation and comparison of multiple regression approaches.&lt;/p&gt;
 &lt;h2 id=&#34;data--preprocessing&#34;&gt;Data &amp;amp; Preprocessing&lt;/h2&gt;
@@ -219,9 +219,9 @@ Developing an API for real-time lending rate prediction to facilitate practical 
     
     <item>
       <title>Optimizing Customer Acquisition Strategies Using Predictive Analytics</title>
-      <link>https://example.com/project/predictive_analytics/</link>
+      <link>https://anzz01.github.io/my_website/project/predictive_analytics/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/predictive_analytics/</guid>
+      <guid>https://anzz01.github.io/my_website/project/predictive_analytics/</guid>
       <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
 &lt;p&gt;Convenient Food Mart faces high customer acquisition costs due to inefficient targeting. In this project, our team (Sophia Mei, Alex Ng, Ying Qing, and Laurie Ye) applied predictive analytics to a customer dataset to identify the key demographic and behavioral factors that drive profitable customer acquisition. Our goal is to build an efficient model to estimate customer acquisition costs, thereby enabling more precise and cost-effective marketing strategies.&lt;/p&gt;
 &lt;h2 id=&#34;data--preprocessing&#34;&gt;Data &amp;amp; Preprocessing&lt;/h2&gt;
@@ -279,8 +279,8 @@ The spreadsheet includes all the data used in this project.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;documents&#34;&gt;Documents&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/ISOM%20455%20Final%20Project.pdf&#34;&gt;ISOM 455 Final Project Report (PDF)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/Media.csv&#34;&gt;Data (CSV)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anzz01.github.io/my_website/uploads/ISOM%20455%20Final%20Project.pdf&#34;&gt;ISOM 455 Final Project Report (PDF)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anzz01.github.io/my_website/uploads/Media.csv&#34;&gt;Data (CSV)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h2&gt;
 &lt;ul&gt;
@@ -298,9 +298,9 @@ Develop an API or dashboard for real-time prediction to support marketing strate
     
     <item>
       <title>Pharmaceutical Industry Portfolio Optimization &amp; Risk Analysis</title>
-      <link>https://example.com/project/healthcare-portfolio/</link>
+      <link>https://anzz01.github.io/my_website/project/healthcare-portfolio/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/healthcare-portfolio/</guid>
+      <guid>https://anzz01.github.io/my_website/project/healthcare-portfolio/</guid>
       <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
 &lt;p&gt;This project examines the performance and risk profiles of leading pharmaceutical companies using a quantitative framework. By combining portfolio optimization techniques with CAPM analysis and non‐parametric risk assessments (such as Value at Risk and Expected Shortfall), the study aims to construct an optimized portfolio that maximizes risk‐adjusted returns while mitigating downside risks through diversification.&lt;/p&gt;
 &lt;h2 id=&#34;data--methodology&#34;&gt;Data &amp;amp; Methodology&lt;/h2&gt;
@@ -339,8 +339,8 @@ The VaR and ES metrics highlight that, even during periods of increased market i
 &lt;h2 id=&#34;supporting-documents&#34;&gt;Supporting Documents&lt;/h2&gt;
 &lt;p&gt;For further details on the analysis and methodology, please refer to the following documents:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/5630%20Project%20Presentation.pdf&#34;&gt;Project Presentation.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/Project_final.pdf&#34;&gt;Code Output.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anzz01.github.io/my_website/uploads/5630%20Project%20Presentation.pdf&#34;&gt;Project Presentation.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anzz01.github.io/my_website/uploads/Project_final.pdf&#34;&gt;Code Output.pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;repository-structure&#34;&gt;Repository Structure&lt;/h2&gt;
 &lt;ul&gt;
@@ -365,9 +365,9 @@ Develop a dashboard or API for real-time monitoring and adjustment of the portfo
     
     <item>
       <title>Quant Strategy &amp; Portfolio Optimization Project</title>
-      <link>https://example.com/project/quant_trading/</link>
+      <link>https://anzz01.github.io/my_website/project/quant_trading/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/quant_trading/</guid>
+      <guid>https://anzz01.github.io/my_website/project/quant_trading/</guid>
       <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
 &lt;p&gt;This project develops a quantitative equity strategy that combines a long position based on growth and momentum with a short position driven by valuation and reversal signals. The aim is to construct a market-neutral portfolio that generates excess returns while minimizing systematic risk.&lt;/p&gt;
 &lt;h2 id=&#34;strategy-description--rationale&#34;&gt;Strategy Description &amp;amp; Rationale&lt;/h2&gt;
@@ -407,13 +407,13 @@ Develop a dashboard or API for real-time monitoring and adjustment of the portfo
 &lt;h2 id=&#34;supporting-documents&#34;&gt;Supporting Documents&lt;/h2&gt;
 &lt;p&gt;Below are direct links to the key files that support this analysis:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/Backtest%20-%20Long.xls&#34;&gt;Backtest - Long.xls&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/Backtest%20-%20Short.xls&#34;&gt;Backtest - Short.xls&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/Portfolio.xlsx&#34;&gt;Portfolio.xlsx&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/Quant%20Project%20Presentation.pptx&#34;&gt;Quant Project Presentation.pptx&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/Quant%20Strategy%20Report.pdf&#34;&gt;Quant Strategy Report.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/Screeners%20-%20Long.png&#34;&gt;Screeners - Long.png&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/Screeners%20-%20Short.png&#34;&gt;Screeners - Short.png&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anzz01.github.io/my_website/uploads/Backtest%20-%20Long.xls&#34;&gt;Backtest - Long.xls&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anzz01.github.io/my_website/uploads/Backtest%20-%20Short.xls&#34;&gt;Backtest - Short.xls&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anzz01.github.io/my_website/uploads/Portfolio.xlsx&#34;&gt;Portfolio.xlsx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anzz01.github.io/my_website/uploads/Quant%20Project%20Presentation.pptx&#34;&gt;Quant Project Presentation.pptx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anzz01.github.io/my_website/uploads/Quant%20Strategy%20Report.pdf&#34;&gt;Quant Strategy Report.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anzz01.github.io/my_website/uploads/Screeners%20-%20Long.png&#34;&gt;Screeners - Long.png&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anzz01.github.io/my_website/uploads/Screeners%20-%20Short.png&#34;&gt;Screeners - Short.png&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h2&gt;
 &lt;ul&gt;
@@ -428,17 +428,17 @@ Develop a dashboard or API for real-time monitoring and adjustment of the portfo
     
     <item>
       <title>Projects</title>
-      <link>https://example.com/projects/</link>
+      <link>https://anzz01.github.io/my_website/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/</guid>
+      <guid>https://anzz01.github.io/my_website/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>https://example.com/post/get-started/</link>
+      <link>https://anzz01.github.io/my_website/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/get-started/</guid>
+      <guid>https://anzz01.github.io/my_website/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -522,9 +522,9 @@ Develop a dashboard or API for real-time monitoring and adjustment of the portfo
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>https://example.com/post/second-brain/</link>
+      <link>https://anzz01.github.io/my_website/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/second-brain/</guid>
+      <guid>https://anzz01.github.io/my_website/post/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -634,9 +634,9 @@ Develop a dashboard or API for real-time monitoring and adjustment of the portfo
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>https://example.com/post/data-visualization/</link>
+      <link>https://anzz01.github.io/my_website/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/data-visualization/</guid>
+      <guid>https://anzz01.github.io/my_website/post/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -647,7 +647,7 @@ Develop a dashboard or API for real-time monitoring and adjustment of the portfo
 
 
 
-&lt;div id=&#34;chart-246831795&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-839674152&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -665,7 +665,7 @@ Develop a dashboard or API for real-time monitoring and adjustment of the portfo
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-246831795&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-839674152&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -844,9 +844,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>https://example.com/post/teach-courses/</link>
+      <link>https://anzz01.github.io/my_website/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/teach-courses/</guid>
+      <guid>https://anzz01.github.io/my_website/post/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -895,7 +895,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://example.com/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://anzz01.github.io/my_website/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -954,9 +954,9 @@ data.head()
     
     <item>
       <title>Learn JavaScript</title>
-      <link>https://example.com/teaching/js/</link>
+      <link>https://anzz01.github.io/my_website/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/js/</guid>
+      <guid>https://anzz01.github.io/my_website/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -999,7 +999,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://example.com/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://anzz01.github.io/my_website/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -1076,9 +1076,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>https://example.com/teaching/python/</link>
+      <link>https://anzz01.github.io/my_website/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/python/</guid>
+      <guid>https://anzz01.github.io/my_website/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -1121,7 +1121,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://example.com/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://anzz01.github.io/my_website/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -1198,9 +1198,9 @@ data.head()
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>https://example.com/post/project-management/</link>
+      <link>https://anzz01.github.io/my_website/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/project-management/</guid>
+      <guid>https://anzz01.github.io/my_website/post/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -1273,10 +1273,10 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
+      <link>https://anzz01.github.io/my_website/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://example.com/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+      <guid>https://anzz01.github.io/my_website/publication/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://anzz01.github.io/my_website/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -1289,9 +1289,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
+      <link>https://anzz01.github.io/my_website/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
+      <guid>https://anzz01.github.io/my_website/publication/journal-article/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -1310,9 +1310,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
+      <link>https://anzz01.github.io/my_website/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
+      <guid>https://anzz01.github.io/my_website/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;

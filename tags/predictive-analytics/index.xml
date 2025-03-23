@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Predictive Analytics | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/predictive-analytics/</link>
-      <atom:link href="https://example.com/tags/predictive-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://anzz01.github.io/my_website/tags/predictive-analytics/</link>
+      <atom:link href="https://anzz01.github.io/my_website/tags/predictive-analytics/index.xml" rel="self" type="application/rss+xml" />
     <description>Predictive Analytics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://anzz01.github.io/my_website/media/icon_hu_645fa481986063ef.png</url>
       <title>Predictive Analytics</title>
-      <link>https://example.com/tags/predictive-analytics/</link>
+      <link>https://anzz01.github.io/my_website/tags/predictive-analytics/</link>
     </image>
     
     <item>
       <title>Optimizing Customer Acquisition Strategies Using Predictive Analytics</title>
-      <link>https://example.com/project/predictive_analytics/</link>
+      <link>https://anzz01.github.io/my_website/project/predictive_analytics/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/predictive_analytics/</guid>
+      <guid>https://anzz01.github.io/my_website/project/predictive_analytics/</guid>
       <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
 &lt;p&gt;Convenient Food Mart faces high customer acquisition costs due to inefficient targeting. In this project, our team (Sophia Mei, Alex Ng, Ying Qing, and Laurie Ye) applied predictive analytics to a customer dataset to identify the key demographic and behavioral factors that drive profitable customer acquisition. Our goal is to build an efficient model to estimate customer acquisition costs, thereby enabling more precise and cost-effective marketing strategies.&lt;/p&gt;
 &lt;h2 id=&#34;data--preprocessing&#34;&gt;Data &amp;amp; Preprocessing&lt;/h2&gt;
@@ -74,8 +74,8 @@ The spreadsheet includes all the data used in this project.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;documents&#34;&gt;Documents&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/ISOM%20455%20Final%20Project.pdf&#34;&gt;ISOM 455 Final Project Report (PDF)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/Media.csv&#34;&gt;Data (CSV)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anzz01.github.io/my_website/uploads/ISOM%20455%20Final%20Project.pdf&#34;&gt;ISOM 455 Final Project Report (PDF)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anzz01.github.io/my_website/uploads/Media.csv&#34;&gt;Data (CSV)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h2&gt;
 &lt;ul&gt;

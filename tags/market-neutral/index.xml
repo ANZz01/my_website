@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Market Neutral | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/market-neutral/</link>
-      <atom:link href="https://example.com/tags/market-neutral/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://anzz01.github.io/my_website/tags/market-neutral/</link>
+      <atom:link href="https://anzz01.github.io/my_website/tags/market-neutral/index.xml" rel="self" type="application/rss+xml" />
     <description>Market Neutral</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://anzz01.github.io/my_website/media/icon_hu_645fa481986063ef.png</url>
       <title>Market Neutral</title>
-      <link>https://example.com/tags/market-neutral/</link>
+      <link>https://anzz01.github.io/my_website/tags/market-neutral/</link>
     </image>
     
     <item>
       <title>Quant Strategy &amp; Portfolio Optimization Project</title>
-      <link>https://example.com/project/quant_trading/</link>
+      <link>https://anzz01.github.io/my_website/project/quant_trading/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/quant_trading/</guid>
+      <guid>https://anzz01.github.io/my_website/project/quant_trading/</guid>
       <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
 &lt;p&gt;This project develops a quantitative equity strategy that combines a long position based on growth and momentum with a short position driven by valuation and reversal signals. The aim is to construct a market-neutral portfolio that generates excess returns while minimizing systematic risk.&lt;/p&gt;
 &lt;h2 id=&#34;strategy-description--rationale&#34;&gt;Strategy Description &amp;amp; Rationale&lt;/h2&gt;
@@ -56,13 +56,13 @@
 &lt;h2 id=&#34;supporting-documents&#34;&gt;Supporting Documents&lt;/h2&gt;
 &lt;p&gt;Below are direct links to the key files that support this analysis:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/Backtest%20-%20Long.xls&#34;&gt;Backtest - Long.xls&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/Backtest%20-%20Short.xls&#34;&gt;Backtest - Short.xls&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/Portfolio.xlsx&#34;&gt;Portfolio.xlsx&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/Quant%20Project%20Presentation.pptx&#34;&gt;Quant Project Presentation.pptx&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/Quant%20Strategy%20Report.pdf&#34;&gt;Quant Strategy Report.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/Screeners%20-%20Long.png&#34;&gt;Screeners - Long.png&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/Screeners%20-%20Short.png&#34;&gt;Screeners - Short.png&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anzz01.github.io/my_website/uploads/Backtest%20-%20Long.xls&#34;&gt;Backtest - Long.xls&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anzz01.github.io/my_website/uploads/Backtest%20-%20Short.xls&#34;&gt;Backtest - Short.xls&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anzz01.github.io/my_website/uploads/Portfolio.xlsx&#34;&gt;Portfolio.xlsx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anzz01.github.io/my_website/uploads/Quant%20Project%20Presentation.pptx&#34;&gt;Quant Project Presentation.pptx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anzz01.github.io/my_website/uploads/Quant%20Strategy%20Report.pdf&#34;&gt;Quant Strategy Report.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anzz01.github.io/my_website/uploads/Screeners%20-%20Long.png&#34;&gt;Screeners - Long.png&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anzz01.github.io/my_website/uploads/Screeners%20-%20Short.png&#34;&gt;Screeners - Short.png&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h2&gt;
 &lt;ul&gt;

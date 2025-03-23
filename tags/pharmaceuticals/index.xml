@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pharmaceuticals | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/pharmaceuticals/</link>
-      <atom:link href="https://example.com/tags/pharmaceuticals/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://anzz01.github.io/my_website/tags/pharmaceuticals/</link>
+      <atom:link href="https://anzz01.github.io/my_website/tags/pharmaceuticals/index.xml" rel="self" type="application/rss+xml" />
     <description>Pharmaceuticals</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://anzz01.github.io/my_website/media/icon_hu_645fa481986063ef.png</url>
       <title>Pharmaceuticals</title>
-      <link>https://example.com/tags/pharmaceuticals/</link>
+      <link>https://anzz01.github.io/my_website/tags/pharmaceuticals/</link>
     </image>
     
     <item>
       <title>Pharmaceutical Industry Portfolio Optimization &amp; Risk Analysis</title>
-      <link>https://example.com/project/healthcare-portfolio/</link>
+      <link>https://anzz01.github.io/my_website/project/healthcare-portfolio/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/healthcare-portfolio/</guid>
+      <guid>https://anzz01.github.io/my_website/project/healthcare-portfolio/</guid>
       <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
 &lt;p&gt;This project examines the performance and risk profiles of leading pharmaceutical companies using a quantitative framework. By combining portfolio optimization techniques with CAPM analysis and non‐parametric risk assessments (such as Value at Risk and Expected Shortfall), the study aims to construct an optimized portfolio that maximizes risk‐adjusted returns while mitigating downside risks through diversification.&lt;/p&gt;
 &lt;h2 id=&#34;data--methodology&#34;&gt;Data &amp;amp; Methodology&lt;/h2&gt;
@@ -55,8 +55,8 @@ The VaR and ES metrics highlight that, even during periods of increased market i
 &lt;h2 id=&#34;supporting-documents&#34;&gt;Supporting Documents&lt;/h2&gt;
 &lt;p&gt;For further details on the analysis and methodology, please refer to the following documents:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/5630%20Project%20Presentation.pdf&#34;&gt;Project Presentation.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/Project_final.pdf&#34;&gt;Code Output.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anzz01.github.io/my_website/uploads/5630%20Project%20Presentation.pdf&#34;&gt;Project Presentation.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anzz01.github.io/my_website/uploads/Project_final.pdf&#34;&gt;Code Output.pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;repository-structure&#34;&gt;Repository Structure&lt;/h2&gt;
 &lt;ul&gt;
