@@ -1,35 +1,29 @@
 ---
-title: 'Experience'
-date: 2023-10-24
-type: landing
-
-design:
-  spacing: '5rem'
-
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
-sections:
-  - block: resume-experience
-    content:
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-  - block: resume-skills
-    content:
-      title: Skills & Hobbies
-      username: admin
-    design:
-      show_skill_percentage: false
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
+title: "Experience"
+date: 2025-03-22
 ---
+
+## Quant Strategy Intern - UBS
+*Sept. - Oct. 2023*  
+- Built a z-score-based mean reversion strategy (NVDA) with a 5-year back-test  
+- Implemented Williams Index trading strategy in Python  
+- Proposed improvements to handle earnings and momentum
+
+## Investment Banking Intern - Century Securities, Shenzhen
+*May - Aug. 2023*  
+- Drafted reports for 3 bond issuances totaling CNY5 billion  
+- Compiled due diligence materials for CSRC approvals
+
+## Investor Relations Intern - Credit Ease, Shenzhen
+*Feb. - May 2022*  
+- Analyzed economic impact of news events  
+- Advised clients on mutual fund products based on risk/return needs  
+
+## Tier-1 Model Research - Balentine, Atlanta, GA
+*Jan. - May 2024*  
+- Analyzed market signals for momentum & relative strength strategy  
+- Improved bond/equity model with ML and statistical visualization
+
+## Publication
+**Stock Price Prediction Based on Machine Learning: A Review**  
+Kwun Fung Ng (2022). *Advances in Economics, Business and Management Research (Vol. 215)*. Atlantis Press.
